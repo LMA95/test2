@@ -49,5 +49,4 @@ public class MYCalc {
 		return number1 + number2;
 	}
 	
-
 }
