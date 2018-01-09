@@ -38,9 +38,9 @@ public class MYCalc {
 			int multiply_result = Multiply(number1, number2);
 			System.out.print(multiply_result);
 		}
+		System.out.print("\r");
 		}while(inserted_menu!=4);
 		
-
 		System.out.print("\r");
 		
 	}
