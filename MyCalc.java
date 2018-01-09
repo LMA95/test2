@@ -48,5 +48,9 @@ public class MYCalc {
 	static int Add(int number1, int number2) {
 		return number1 + number2;
 	}
-
+	
+	static int Subtract(int number1, int number2) {
+		return number1 - number2;
+	}
+	
 }
