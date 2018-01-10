@@ -1,8 +1,6 @@
-package software_engineering_hw1;
-
 import java.util.Scanner;
 
-public class MYCalc {
+public class MyCalc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int number1=0,number2=0;
