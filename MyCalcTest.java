@@ -1,7 +1,7 @@
 package com.junit;
 
 import static org.junit.Assert.*;
-import com.calculator.*;
+import software_engineering_hw1.*;
 import org.junit.Test;
 
 import com.calculator.MYCalc;
